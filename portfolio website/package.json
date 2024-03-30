@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.18",
+    "postcss": "^8.4.36",
+    "tailwind": "^4.0.0"
+  },
+  "dependencies": {
+    "core-js": "^3.36.0"
+  }
+}
